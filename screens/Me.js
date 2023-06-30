@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import styled from "styled-components";
 import useMe from "../hooks/useMe";
 import { mentor } from "./ChooseMode";
+// push test
 
 const Container = styled.View`
   flex: 1;
